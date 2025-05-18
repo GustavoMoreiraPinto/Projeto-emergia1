@@ -102,13 +102,13 @@ nav a:hover {
 main {
     min-width: 300px;
     max-width: 1000px;
-    min-height: 500px; /* aumenta a altura mínima */
-    margin: 40px auto; /* mais espaço externo */
-    padding: 40px 30px; /* mais espaço interno */
-    background-color: var(--cor1); /* tom suave de azul */
-    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2); /* sombra mais suave e ampla */
-    border-radius: 15px; /* cantos mais arredondados */
-    transition: all 0.3s ease-in-out; /* suavidade para transições futuras */
+    min-height: 500px;  
+    margin: 40px auto;  
+    padding: 40px 30px;     
+    background-color: var(--cor1);  
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2); 
+    border-radius: 15px;    
+    transition: all 0.3s ease-in-out; 
 }
 
 main:hover {
@@ -180,6 +180,10 @@ div.video iframe{
     height: 90%;
 
 
+}
+
+h1,h2{
+    margin-bottom: 10px;
 }
 
 img{
