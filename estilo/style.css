@@ -182,6 +182,10 @@ div.video iframe{
 
 }
 
+img{
+    margin: 10px;
+}
+
 /*aside-----------------------------------*/
 aside{
     background-color: var(--cor1);
